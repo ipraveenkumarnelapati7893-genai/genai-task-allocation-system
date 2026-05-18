@@ -1,0 +1,6 @@
+Task_Name,Priority,Language,Vendor,Estimated_Days,SLA_Days,Utilization_Percentage,Risk
+Prompt Evaluation,P1,German,Acolad,3.0,3,100.0,LOW
+Safety Review,P1,English,Centific,1.33,2,66.67,LOW
+Query Audit,P2,Japanese,Volga,4.0,5,80.0,LOW
+Prompt QA,P2,French,Hansem,2.5,4,62.5,LOW
+Response Rating,P3,Spanish,Fuzu,3.6,7,51.43,LOW
