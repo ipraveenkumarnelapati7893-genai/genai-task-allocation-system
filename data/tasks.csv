@@ -1,0 +1,6 @@
+Task_ID,Task_Name,Priority,Language,Volume,Required_Skill,SLA_Days
+T001,Prompt Evaluation,P1,German,1200,Advanced,3
+T002,Safety Review,P1,English,400,Expert,2
+T003,Query Audit,P2,Japanese,600,Intermediate,5
+T004,Prompt QA,P2,French,300,Intermediate,4
+T005,Response Rating,P3,Spanish,900,Basic,7
